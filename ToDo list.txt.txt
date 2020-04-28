@@ -3,6 +3,9 @@
 2.	[X] Flow chart or algorithms.
 3.	[X] Create a python file that is going to store the code for you project.
 4.	[X] Create a program that is going to read the user input from 1 to 3 and print “Rock” if it is 1, print “Paper” if it is 2 or “Scissor” if it is 3.
-5.	[ ] Assign the value of paper rock or scissor to a variable called playerOption.
-6.	[ ]Generate random option for between paper, scissor and rock and store it in a variable called machineOption.
-7.	[ ]Comparing machineOption VS playerOption and print who is the winner. 
+5.	[x] Assign the value of paper rock or scissor to a variable called playerOption.
+6.	[x] Generate random option for between paper, scissor and rock and store it in a variable called machineOption.
+7.	[x] Comparing machineOption VS playerOption and print who is the winner. 
+8.      [ ] creat menu for the program for the numbers 
+9.      [ ] creating the record of win and lose 
+10.     [ ] check user input and see if its valid 
