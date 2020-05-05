@@ -6,5 +6,5 @@
 5.	[x] Assign the value of paper rock or scissor to a variable called playerOption.
 6.	[x] Generate random option for between paper, scissor and rock and store it in a variable called machineOption.
 7.	[x] Comparing machineOption VS playerOption and print who is the winner. 
-8.   [x] creat menu for the program for the numbers
-9.   [ ] creating the record of win and lose
+8.      [x] creat menu for the program for the numbers
+
