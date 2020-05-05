@@ -3,19 +3,15 @@ import random
 import time
 
 def option_value(num):
-    # print("hello")
     player_input = num
     if player_input == 1:
         return "rock"
-        # print("you are a rock")
     elif player_input == 2:
         return "scissor"
-        # print("you are a scissor")
     elif player_input == 3:
         return "paper"
-        # print("you are a paper")
-    # else:
-    #     print("you entered the wrong option")
+    else:
+        print("you entered the wrong option")
 
 def player_result(machine_option, player_option):
 
